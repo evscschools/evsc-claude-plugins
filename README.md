@@ -6,6 +6,7 @@ District skills for EVSC staff using Claude Desktop. EVSC Technology installs th
 | --- | --- |
 | copy-ready-text | Puts text you'll paste somewhere else, such as an email or form field, in a box with a one-click copy button. |
 | pii-safe-writing | Keeps names, student information and other personal details out of anything that will be saved, published or shared. |
+| de-identify | Removes or generalizes information that could identify a student, family member or staff member before you share something. Ask Claude to "de-identify this." |
 
 These skills are instructions only. They don't connect to other services or run code.
 
