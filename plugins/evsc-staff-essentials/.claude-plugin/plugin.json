@@ -1,6 +1,8 @@
 {
   "name": "evsc-staff-essentials",
-  "version": "1.0.0",
-  "description": "EVSC skills for all staff: copy-ready text and keeping personal and student information out of anything saved or shared.",
-  "author": { "name": "EVSC Technology" }
+  "version": "1.1.0",
+  "description": "EVSC skills for all staff: copy-ready text, keeping personal and student information out of anything saved or shared, and de-identifying content before it's shared.",
+  "author": {
+    "name": "EVSC Technology"
+  }
 }
