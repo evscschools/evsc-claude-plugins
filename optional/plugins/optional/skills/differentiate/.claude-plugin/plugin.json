@@ -1,0 +1,9 @@
+{
+  "name": "differentiate",
+  "displayName": "Differentiate",
+  "version": "1.0.0",
+  "description": "Adapts texts, directions and tasks for different reading levels, English learners and extension, keeping the same learning goal.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

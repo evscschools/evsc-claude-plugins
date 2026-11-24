@@ -1,0 +1,9 @@
+{
+  "name": "google-apps-script",
+  "displayName": "Google Apps Script",
+  "version": "1.0.0",
+  "description": "Applies Google Apps Script best practices when writing .gs code: the 6-minute limit, triggers, batching and error handling.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

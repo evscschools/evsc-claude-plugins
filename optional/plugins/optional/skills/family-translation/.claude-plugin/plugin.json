@@ -1,0 +1,9 @@
+{
+  "name": "family-translation",
+  "displayName": "Family Translation",
+  "version": "1.0.0",
+  "description": "Translates family messages into other languages, keeping names, dates and details exact, with a back-translation to check.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

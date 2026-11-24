@@ -1,0 +1,9 @@
+{
+  "name": "quiz-builder",
+  "displayName": "Quiz Builder",
+  "version": "1.0.0",
+  "description": "Writes quizzes, exit tickets and question banks with a separate answer key and mixed difficulty.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

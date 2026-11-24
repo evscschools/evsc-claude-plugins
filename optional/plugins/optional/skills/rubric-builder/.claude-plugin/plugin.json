@@ -1,0 +1,9 @@
+{
+  "name": "rubric-builder",
+  "displayName": "Rubric Builder",
+  "version": "1.0.0",
+  "description": "Builds analytic, single-point and checklist rubrics from your learning goals, with a student-friendly version.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

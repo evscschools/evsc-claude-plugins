@@ -1,0 +1,9 @@
+{
+  "name": "lesson-planner",
+  "displayName": "Lesson Planner",
+  "version": "1.0.0",
+  "description": "Plans lessons, units and sub plans around a standard you paste, with timing, checks for understanding and an exit ticket.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

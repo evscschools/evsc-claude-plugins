@@ -10,6 +10,72 @@
       "displayName": "Plan First",
       "source": "./plugins/plan-first",
       "description": "Before writing or changing code, scripts or formulas, Claude lists what it will change and waits for your go-ahead."
+    },
+    {
+      "name": "family-communication",
+      "displayName": "Family Communication",
+      "source": "./plugins/family-communication",
+      "description": "Drafts clear, warm messages for parents and guardians: emails, newsletters, notices and replies to concerns."
+    },
+    {
+      "name": "family-translation",
+      "displayName": "Family Translation",
+      "source": "./plugins/family-translation",
+      "description": "Translates family messages into other languages, keeping names, dates and details exact, with a back-translation to check."
+    },
+    {
+      "name": "lesson-planner",
+      "displayName": "Lesson Planner",
+      "source": "./plugins/lesson-planner",
+      "description": "Plans lessons, units and sub plans around a standard you paste, with timing, checks for understanding and an exit ticket."
+    },
+    {
+      "name": "differentiate",
+      "displayName": "Differentiate",
+      "source": "./plugins/differentiate",
+      "description": "Adapts texts, directions and tasks for different reading levels, English learners and extension, keeping the same learning goal."
+    },
+    {
+      "name": "rubric-builder",
+      "displayName": "Rubric Builder",
+      "source": "./plugins/rubric-builder",
+      "description": "Builds analytic, single-point and checklist rubrics from your learning goals, with a student-friendly version."
+    },
+    {
+      "name": "quiz-builder",
+      "displayName": "Quiz Builder",
+      "source": "./plugins/quiz-builder",
+      "description": "Writes quizzes, exit tickets and question banks with a separate answer key and mixed difficulty."
+    },
+    {
+      "name": "feedback-helper",
+      "displayName": "Feedback Helper",
+      "source": "./plugins/feedback-helper",
+      "description": "Drafts specific glow-and-grow feedback on de-identified student work against your rubric or success criteria."
+    },
+    {
+      "name": "meeting-notes",
+      "displayName": "Meeting Notes",
+      "source": "./plugins/meeting-notes",
+      "description": "Writes agendas and turns meeting notes into decisions, action items and a short summary."
+    },
+    {
+      "name": "accessible-docs",
+      "displayName": "Accessible Docs",
+      "source": "./plugins/accessible-docs",
+      "description": "Checks documents, slides and emails for accessibility and writes alt text, with fixes for Google Docs and Word."
+    },
+    {
+      "name": "sheets-formulas",
+      "displayName": "Sheets Formulas",
+      "source": "./plugins/sheets-formulas",
+      "description": "Writes and fixes Google Sheets and Excel formulas from your column layout, with a plain-language explanation."
+    },
+    {
+      "name": "google-apps-script",
+      "displayName": "Google Apps Script",
+      "source": "./plugins/google-apps-script",
+      "description": "Applies Google Apps Script best practices when writing .gs code: the 6-minute limit, triggers, batching and error handling."
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "name": "accessible-docs",
+  "displayName": "Accessible Docs",
+  "version": "1.0.0",
+  "description": "Checks documents, slides and emails for accessibility and writes alt text, with fixes for Google Docs and Word.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

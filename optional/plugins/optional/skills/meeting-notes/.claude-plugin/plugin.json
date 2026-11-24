@@ -1,0 +1,9 @@
+{
+  "name": "meeting-notes",
+  "displayName": "Meeting Notes",
+  "version": "1.0.0",
+  "description": "Writes agendas and turns meeting notes into decisions, action items and a short summary.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

@@ -9,7 +9,7 @@
       "name": "evsc-staff-essentials",
       "displayName": "EVSC Staff Essentials",
       "source": "./plugins/evsc-staff-essentials",
-      "description": "EVSC skills for all staff: copy-ready text, keeping personal and student information out of anything saved or shared, and de-identifying content before it's shared."
+      "description": "EVSC skills for all staff: copy-ready text, keeping personal and student information out of anything saved or shared, de-identifying content before it's shared, and setting up Claude Projects."
     }
   ]
 }

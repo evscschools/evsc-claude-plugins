@@ -1,0 +1,9 @@
+{
+  "name": "sheets-formulas",
+  "displayName": "Sheets Formulas",
+  "version": "1.0.0",
+  "description": "Writes and fixes Google Sheets and Excel formulas from your column layout, with a plain-language explanation.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}

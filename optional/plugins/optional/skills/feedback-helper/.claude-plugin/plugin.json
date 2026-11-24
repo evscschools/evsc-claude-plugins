@@ -1,0 +1,9 @@
+{
+  "name": "feedback-helper",
+  "displayName": "Feedback Helper",
+  "version": "1.0.0",
+  "description": "Drafts specific glow-and-grow feedback on de-identified student work against your rubric or success criteria.",
+  "author": {
+    "name": "EVSC Technology"
+  }
+}
