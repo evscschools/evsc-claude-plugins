@@ -1,7 +1,7 @@
 {
   "name": "plan-first",
   "displayName": "Plan First",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Before writing or changing code, scripts or formulas, Claude lists what it will change and waits for your go-ahead.",
   "author": {
     "name": "EVSC Technology"
