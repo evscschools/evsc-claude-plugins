@@ -1,0 +1,14 @@
+{
+  "name": "evsc-optional",
+  "owner": {
+    "name": "EVSC Technology"
+  },
+  "description": "EVSC-reviewed skills staff can choose to install.",
+  "plugins": [
+    {
+      "name": "plan-first",
+      "source": "./plugins/plan-first",
+      "description": "Before writing or changing code, scripts or formulas, Claude lists what it will change and waits for your go-ahead."
+    }
+  ]
+}

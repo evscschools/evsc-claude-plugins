@@ -1,8 +1,9 @@
 {
-  "name": "evsc-staff",
+  "name": "evsc-required",
   "owner": {
     "name": "EVSC Technology"
   },
+  "description": "EVSC skills installed for all staff. Can't be removed.",
   "plugins": [
     {
       "name": "evsc-staff-essentials",
