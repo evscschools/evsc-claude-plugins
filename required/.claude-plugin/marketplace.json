@@ -1,5 +1,5 @@
 {
-  "name": "evsc-required",
+  "name": "EVSC-Required-Skills",
   "owner": {
     "name": "EVSC Technology"
   },
@@ -7,6 +7,7 @@
   "plugins": [
     {
       "name": "evsc-staff-essentials",
+      "displayName": "EVSC Staff Essentials",
       "source": "./plugins/evsc-staff-essentials",
       "description": "EVSC skills for all staff: copy-ready text, keeping personal and student information out of anything saved or shared, and de-identifying content before it's shared."
     }

@@ -1,5 +1,5 @@
 {
-  "name": "evsc-optional",
+  "name": "EVSC-Optional-Skills",
   "owner": {
     "name": "EVSC Technology"
   },
@@ -7,6 +7,7 @@
   "plugins": [
     {
       "name": "plan-first",
+      "displayName": "Plan First",
       "source": "./plugins/plan-first",
       "description": "Before writing or changing code, scripts or formulas, Claude lists what it will change and waits for your go-ahead."
     }
